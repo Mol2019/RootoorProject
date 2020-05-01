@@ -1,0 +1,33 @@
+.modal-header {
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+    font-family: "palatino linotype", palatino, serif;
+}
+
+.modal-dialog {
+    width: 2000px;
+}
+
+@media screen and (max-width: 992px) {
+    .modal-dialog {
+        width: 2000px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .modal-dialog {
+        width: 2000px;
+    }
+}
+
+@media screen and (max-height: 500px) and (min-width: 992px) {
+    .modal-dialog {
+        width: 2000px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .modal-dialog {
+        width: 2000px;
+    }
+}

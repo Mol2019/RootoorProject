@@ -1,0 +1,33 @@
+.contact-group img {
+    width: 95px;
+}
+
+.contact-group .media-heading {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.contact-group .media-heading small {
+    margin-left: 5px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #999;
+}
+
+.contact-group .contact-item {
+    border: none;
+    margin-top: 10px;
+}
+
+.contact-group .contact-item:hover {
+    background-color: #fcfcfc;
+}
+
+.contact-group .media-content {
+    margin-top: 5px;
+}
+
+.contact-group .fa:before {
+    font-size: 15px;
+    color: gray;
+}

@@ -1,0 +1,6 @@
+.params-header {
+    background: rgb(39, 9, 121);
+    background: linear-gradient(90deg, rgba(39, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    font-style: italic;
+    font-weight: 200;
+}
